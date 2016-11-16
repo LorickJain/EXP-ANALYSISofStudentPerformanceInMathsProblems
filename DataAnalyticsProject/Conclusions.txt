@@ -1,0 +1,8 @@
+1)The reason to choose a school is not beacuse they provide a special course but it is because student want to reduce the travel time.
+2)Most of the students study in Gabriel Pareira (males and females) and score better in this school compared to Mousinho de Silveria.
+3)The performance of children in a Math Course is dependent on different factors. First of all, we found a strong connection between the mother’s job and the performance. It is best for the child when the mother works in the health sector and worst when the mother is at home. This result is counter-intuitive because one can assume that a mother who is at home has time for their children.
+4)In comparison to that the result that going out is negatively correlated with your performance in a Math Class is totally intuitive. Additionally, the results revealed that older children which failed once or several times have lower performance rates.
+5)While boys show lower performances when they grow older, girls remain relatively constant.
+6)Educated parents have children scoring good grades.
+7)Healthy females and males tend to score better grades.
+8)Internet access and grades scored show a positive correlation.
